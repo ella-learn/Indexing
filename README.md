@@ -12,7 +12,6 @@
 7. The difference query execution time using 2.8 million row of data explain in 2 screenshot below 
     - Query time execution without apply the index
     <img src = "documentation/time-execution-with-explain-query-before-index.png">
-    <br />
     - Query time execution with apply index column 
     <img src = "documentation/time-execution-with-explain-query-after-index.png">
 
